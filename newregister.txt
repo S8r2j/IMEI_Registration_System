@@ -1,0 +1,3 @@
+IMEI Number	                    Brand          Mobile Number      Identity Number        Name 
+172123456789012345              Huwaei          9819692679         18017501940        Suraj Sharma
+234567890012345              Huwaei          9844537462    1243213235347478       Sushant Kumar
